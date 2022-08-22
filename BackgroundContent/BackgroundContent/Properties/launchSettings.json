@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "BackgroundContent (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "BackgroundContent (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
